@@ -10,5 +10,5 @@ This is a product landing page for a yoga matress, following the third lesson of
 
 # See this project live at the following URL: 
 
-https://gwjl.github.io/FreecodecampProject2-SurveyForm/
+https://gwjl.github.io/FreecodecampProject3-LandingPage/
 
